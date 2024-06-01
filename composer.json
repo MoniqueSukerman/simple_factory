@@ -1,0 +1,15 @@
+{
+    "name": "monique/simple_factory",
+    "autoload": {
+        "psr-4": {
+            "Monique\\SimpleFactory\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Monique",
+            "email": "monique.porciuncula@agilize.com.br"
+        }
+    ],
+    "require": {}
+}
